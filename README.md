@@ -1,3 +1,31 @@
+# REST-API-CLINT
+
+*COMPANY*:CODTECH IT SOLUTIONS
+
+*NAME*:SRIJAN MANDAL
+
+*INTERN ID*:CTIS8634
+
+*DOMAIN*:JAVA PROGRAMMING
+
+*DURATION*:4 WEEKS
+
+*MENTOR*:NEELA SANTOSH
+
+#### REST Weather API Client Using Java 
+
+A REST Weather API Client using Java is an application that retrieves real-time weather information from an online weather service through RESTful APIs. The project demonstrates how Java applications can communicate with external web services using HTTP requests and process JSON responses efficiently. It is widely used for learning API integration, networking concepts, and data handling in Java.
+
+The main purpose of this application is to provide users with accurate weather details such as temperature, humidity, wind speed, atmospheric pressure, weather conditions, sunrise and sunset timings, and forecast information for a specific city or location. The application sends requests to a public weather API, such as OpenWeatherMap or WeatherAPI, and receives the response data in JSON format. Java libraries like `HttpURLConnection`, `HttpClient`, or third-party libraries such as OkHttp can be used to establish communication with the API.
+
+The project also uses JSON parsing libraries like Gson or Jackson to extract and display useful weather information in a readable format. Users can enter the name of a city, and the application fetches the latest weather data instantly. The client can be developed as a console-based application or enhanced with a graphical user interface (GUI) using Java Swing or JavaFX.
+
+One of the major advantages of this project is its practical exposure to real-world web services and REST architecture. It helps developers understand HTTP methods, API authentication using API keys, request handling, response parsing, and exception management. Proper error handling is implemented to manage issues such as invalid city names, internet connectivity problems, or API request limits.
+
+The REST Weather API Client is highly scalable and can be extended with advanced features such as weather forecasting, geolocation support, unit conversion, weather alerts, historical weather data, and integration with mobile or desktop applications. Since Java is platform-independent, the application can run on multiple operating systems without modification.
+
+Overall, the project is an excellent example of combining Java programming with modern web technologies. It improves knowledge of networking, API consumption, JSON processing, and object-oriented programming while providing a useful and interactive real-time weather information system.
+
 # Java Weather REST API Client
 
 A **zero-dependency** Java application that fetches live weather data from a public REST API and displays it in a structured, coloured console report. No API key required.
