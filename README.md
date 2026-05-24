@@ -31,6 +31,8 @@ Overall, the project is an excellent example of combining Java programming with 
 A **zero-dependency** Java application that fetches live weather data from a public REST API and displays it in a structured, coloured console report. No API key required.
 
 ---
+#OUTPUT
+<img width="751" height="811" alt="Image" src="https://github.com/user-attachments/assets/eca1554f-c88e-4231-b5ac-693bd8780708" />
 
 ## Project Structure
 
